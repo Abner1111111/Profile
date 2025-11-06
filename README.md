@@ -46,7 +46,7 @@ I'm passionate about creating **functional, beautiful, and user-centered applica
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
